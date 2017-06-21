@@ -1,4 +1,5 @@
 node_modules/
-dist/*.js
-dist/*.css
-dist/*.map
+dist/js/bundle.js
+dist/css/style.css
+dist/css/style.css.map
+dist/js/bundle.js.map
